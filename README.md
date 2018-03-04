@@ -1,30 +1,29 @@
 # FaceRecognition
  基于TensorFlow训练的人脸识别神经网络
 
-运行环境：
+一、运行环境：
 
 系统: window或linux
 
 软件: python 3.5、tensorflow
 
-python支持库:
+二、python支持库:
 
-tensorflow:
+1.tensorflow:
 
 pip install tensorflow     
 
-
-numpy:
+2.numpy:
 
 pip install numpy
 
-opencv:
+3.opencv:
 
 pip install opencv-python
 
-dlib:
+4.dlib:
 
 pip install dlib
 
-参考文章：
+三、参考文章：
 http://tumumu.cn/2017/05/02/deep-learning-face/
