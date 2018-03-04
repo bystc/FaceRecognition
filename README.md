@@ -2,7 +2,9 @@
  基于TensorFlow训练的人脸识别神经网络
 
 运行环境：
+
 系统: window或linux
+
 软件: python 3.5、tensorflow
 
 python支持库:
