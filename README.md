@@ -25,5 +25,12 @@ pip install opencv-python
 
 pip install dlib
 
-三、参考文章：
+三、测试截图：
+
+![image](https://github.com/bystc/FaceRecognition/raw/master/train1.png)
+
+准确率大于0.98时保存并退出:
+![image](https://github.com/bystc/FaceRecognition/raw/master/train2.png)
+
+四、参考文章：
 http://tumumu.cn/2017/05/02/deep-learning-face/
