@@ -1,5 +1,5 @@
 # FaceRecognition
- 基于TensorFlow训练的人脸识别神经网络
+ 基于TensorFlow的人脸识别卷积神经网络
 
 一、运行环境：
 
