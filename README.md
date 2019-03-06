@@ -25,5 +25,4 @@ pip install opencv-python
 
 pip install dlib
 
-三、参考文章：
-http://tumumu.cn/2017/05/02/deep-learning-face/
+
